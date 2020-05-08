@@ -1,0 +1,25 @@
+/* body {
+  color: #222222;
+  font-size: 1em;
+  font-family: "Open Sans", "Helvetica Neue", sans-serif;
+} */
+
+.center {
+  text-align: center;
+}
+
+.content-footer, .masthead-heading, .masthead-intro {
+  text-align: center;
+}
+
+.masthead {
+  padding: 6em 0;
+  background-image: url("https://i0.wp.com/thepointsguy.com/wp-content/uploads/2019/08/Honolulu_Okimo_GettyImages-1015218282.jpg?resize=800%2C450px&ssl=1");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+/* 
+@media screen and (max-width: 576px) {
+    
+} */
