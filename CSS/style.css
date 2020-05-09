@@ -1,8 +1,9 @@
-/* body {
+body {
   color: #222222;
   font-size: 1em;
   font-family: "Open Sans", "Helvetica Neue", sans-serif;
-} */
+  background-color: rgba(232, 222, 236, 0.748);
+}
 
 .center {
   text-align: center;
@@ -19,7 +20,15 @@
   background-repeat: no-repeat;
 }
 
-/* 
-@media screen and (max-width: 576px) {
-    
-} */
+.spacing-div {
+  height: 150px;
+  margin: auto;
+}
+
+.titles {
+  font-size: 2em;
+  font-family: "Open Sans", "Helvetica Neue";
+  text-align: center;
+  color: #f0eff7;
+  background-color: rgb(52, 30, 123);
+}
