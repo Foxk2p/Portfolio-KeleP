@@ -20,10 +20,38 @@ body {
   background-repeat: no-repeat;
 }
 
+.masthead-intro {
+  margin-bottom: 0.1em;
+  font-size: 2em;
+  color: #ffffff;
+  
+}
+
+.masthead-heading {
+  margin-top: -0.2em;
+  font-weight: bold;
+  font-size: 6em;
+  letter-spacing: -0.02em;
+  text-transform: uppercase;
+  color: #ffffff;
+  background-color: rgba(66, 31, 181, 0.088);
+}
+
+.spacing-div-sm {
+  height: 50px;
+  margin: auto;
+}
+
 .spacing-div {
   height: 150px;
   margin: auto;
 }
+
+.spacing-div-xl {
+  height: 400px;
+  margin: auto;
+}
+
 
 .titles {
   font-size: 2em;
@@ -31,4 +59,20 @@ body {
   text-align: center;
   color: #f0eff7;
   background-color: rgb(52, 30, 123);
+}
+
+#footer {
+  padding: 15px 0;
+  text-align: center;
+  background-color: rgb(52, 30, 123);
+  text-decoration: none;
+}
+
+#footer a {
+  color: #ffffff;
+}
+
+.social>li {
+  display: inline-block;
+  margin: 0 5px;
 }
