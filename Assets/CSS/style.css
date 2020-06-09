@@ -9,6 +9,11 @@ body {
   text-align: center;
 }
 
+.bio-picture {
+  border-radius: 50%;
+  filter: drop-shadow(10px 10px 20px rgba(0, 0, 0, .5));
+}
+
 .content-footer, .masthead-heading, .masthead-intro {
   text-align: center;
 }
@@ -24,7 +29,6 @@ body {
   margin-bottom: 0.1em;
   font-size: 2em;
   color: #ffffff;
-  
 }
 
 .masthead-heading {
@@ -51,7 +55,6 @@ body {
   height: 400px;
   margin: auto;
 }
-
 
 .titles {
   font-size: 2em;
