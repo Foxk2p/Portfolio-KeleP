@@ -1,17 +1,46 @@
-# Portfolio-KeleP
+# Kele's Portfolio
 
-This is my current portfolio which includes a personal biography, information about my current works, and contact information. The bio page provides a visitor the chance to get to know me better on a personal level. Here, answers for common questions and a brief personal narative are provided.
+ABOUT:
 
-Technology used:
+This is my current portfolio which includes a personal biography, information about my current works, and contact information. The bio page provides a visitor with the chance to get to know me better. Here, answers for common questions and a brief personal narative are provided.
 
-GitHub
+FEATURES:
+
+Current portfolio content
+
+Mobile-first design
+
+Bootstrap aesthetics UI
+
+CONTENT:
+
+A personal biography
+
+Links to my GitHub profile & LinkedIn page as well as your email address and phone number
+
+A link to a PDF of my resume with updated projects
+
+A list of projects, including the following information:
+
+  Project title
+
+  Links to deployed applications
+
+  Links to project GitHub repositories
+
+TECHNOLOGY USED:
+
+HTML,
+
+CSS,
+
+Bootstrap,
+
+GitHub,
 
 Visual Studio Code
 
-Bootstrap
-
-
-visit: <a href="https://foxk2p.github.io/Portfolio-KeleP/" target="_blank">My Portfolio</a>
+VISIT: <a href="https://foxk2p.github.io/Portfolio-KeleP/" target="_blank">My Portfolio</a>
 
 <img src="./Assets/images/portfolio-bio.png">
 
